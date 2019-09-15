@@ -1,0 +1,36 @@
+Roteiro para Implantação do Projeto Integador I
+
+
+O Projeto Integrador é a discipina destinada a desafiar os alunos do primeiro semestre a resolver um "problema real".
+Os alunos devem se organizar em times de 5 pessoas + um Scrum Master (este aluno preferenciamente deve ser veterano).
+
+
+====== Primeira semana de aula ======
+- Apresentação dos princípios da disciplina e do curso
+	- Definição da importância desta disciplina perante as demais (inclusive para os professores)
+- Definição das soft skills importantes para a conclusão do trabalho
+- Apresentação dos papéis SCRUM
+- Dinâmica para reflexão sobre a metodologia
+- Apresentação dos Masters e abertura de contratações
+- Definição das entregas
+
+
+====== Segunda semana de aula ======
+- Todos os times recebem um "problema real"
+	- Por serem alunos do 1º, este problema é mais limitado que nos demais semestres
+- Apresentação de Design Thinking para aperfeiçoamento das alternativas de solução
+- As contratações já estão definidas
+- Primeiras interações do Master com o Time
+- Cadastro no Git
+
+
+====== Terceira semana de aula ======
+- Definição dos requisitos
+- Estudar sobre o problema e as formas de solução
+- Criar o projeto no Git
+- Definir as formas de comunicação
+- Entender o que será entregue ao final do semestre
+	- Este entendimento é tardio na primeira vez 
+- Tentar planejar como atingir o sucesso
+
+
